@@ -103,6 +103,11 @@ p {
 }
 
 /* Página inicial */
+
+#inicio {
+  padding-top: 60px;
+}
+
 .hero {
   display: grid;
   grid-template-columns: 1fr 1fr;
