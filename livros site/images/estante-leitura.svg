@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520" role="img" aria-labelledby="title desc">
+<title id="title">Cantinho de leitura</title><desc id="desc">Estante com livros coloridos, uma planta e uma poltrona confortável.</desc>
+<rect width="620" height="520" rx="26" fill="#eee7ed"/>
+<rect x="55" y="65" width="320" height="300" rx="12" fill="#9b765f"/>
+<rect x="72" y="82" width="286" height="266" rx="5" fill="#f8f1e8"/>
+<path d="M72 215 H358 M72 306 H358" stroke="#9b765f" stroke-width="13"/>
+<g><rect x="90" y="112" width="36" height="91" rx="4" fill="#a66e8e"/><rect x="131" y="100" width="42" height="103" rx="4" fill="#d4a65e"/><rect x="179" y="122" width="32" height="81" rx="4" fill="#658d86"/><rect x="217" y="107" width="47" height="96" rx="4" fill="#c47b68"/><rect x="270" y="116" width="31" height="87" rx="4" fill="#7f7398"/><rect x="307" y="128" width="34" height="75" rx="4" fill="#d5b879"/></g>
+<g><rect x="92" y="231" width="44" height="63" rx="4" fill="#668c82"/><rect x="141" y="224" width="35" height="70" rx="4" fill="#bd806c"/><rect x="181" y="237" width="51" height="57" rx="4" fill="#d2a85e"/><rect x="238" y="222" width="38" height="72" rx="4" fill="#92708c"/><rect x="282" y="230" width="58" height="64" rx="4" fill="#64818f"/></g>
+<g transform="translate(400 280)"><path d="M0 60 Q0 0 65 0 H135 Q185 0 185 60 V120 H0Z" fill="#9d6f8a"/><rect x="15" y="95" width="155" height="45" rx="10" fill="#80566f"/><path d="M20 135 L12 190 M160 135 L170 190" stroke="#6e534b" stroke-width="12" stroke-linecap="round"/><rect x="12" y="42" width="160" height="18" rx="9" fill="#b78ba4"/></g>
+<g transform="translate(440 105)"><path d="M35 150 Q-5 85 25 30 Q65 70 45 145 M55 150 Q60 65 115 20 Q125 95 65 155 M45 150 Q20 85 0 70 Q0 135 45 160" fill="#6f9978"/><path d="M45 150 V185" stroke="#65815f" stroke-width="8"/><path d="M15 180 H85 L75 225 H25Z" fill="#c98b70"/></g>
+<path d="M0 455 Q160 430 310 455 T620 445 V520 H0Z" fill="#d6c3d2"/>
+</svg>

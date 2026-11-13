@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
+<title id="title">Livros abertos e empilhados</title><desc id="desc">Ilustração acolhedora de livros coloridos, um livro aberto e pequenas estrelas.</desc>
+<rect width="760" height="560" rx="28" fill="#f0e8ef"/>
+<circle cx="610" cy="110" r="52" fill="#e9c98d"/>
+<path d="M0 430 Q190 385 380 425 T760 410 V560 H0Z" fill="#d8c5d4"/>
+<g transform="translate(130 300)">
+  <path d="M0 55 Q100 15 210 55 L210 155 Q105 120 0 155Z" fill="#a86c8e"/>
+  <path d="M210 55 Q315 15 420 55 L420 155 Q315 120 210 155Z" fill="#c58ba7"/>
+  <path d="M210 55 V155" stroke="#f6e8ef" stroke-width="5"/>
+  <path d="M20 73 Q105 45 190 73 M230 73 Q315 45 400 73" stroke="#f8edf3" stroke-width="4" fill="none"/>
+  <path d="M20 95 Q105 67 190 95 M230 95 Q315 67 400 95" stroke="#f8edf3" stroke-width="3" fill="none"/>
+</g>
+<g transform="translate(185 220) rotate(-8)">
+  <rect width="320" height="58" rx="7" fill="#567c79"/>
+  <rect x="12" y="8" width="296" height="42" rx="4" fill="#79a19a"/>
+  <path d="M32 15 V43" stroke="#dcebe3" stroke-width="5"/>
+</g>
+<g transform="translate(235 170) rotate(7)">
+  <rect width="290" height="55" rx="7" fill="#d7a85c"/>
+  <rect x="12" y="8" width="266" height="39" rx="4" fill="#edc77f"/>
+  <path d="M34 14 V41" stroke="#fff0cc" stroke-width="5"/>
+</g>
+<g fill="#fffaf4"><path d="M115 145 l8 19 20 8 -20 8 -8 20 -8 -20 -20 -8 20 -8Z"/><path d="M590 250 l6 14 15 6 -15 6 -6 15 -6 -15 -15 -6 15 -6Z"/><circle cx="555" cy="165" r="6"/><circle cx="170" cy="250" r="5"/></g>
+</svg>
